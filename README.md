@@ -1,2 +1,2 @@
-# Collaborator 1's Edit
+# Final Merged Title
  In-Class Assignment: Merge Conflicts
